@@ -1,0 +1,14 @@
+{
+  "flights": [
+    {
+      "companyName": "aaaaaa",
+      "destination": "aaaaaa",
+      "id": 1
+    },
+    {
+      "companyName": "bbbb",
+      "destination": "bbbbb",
+      "id": 2
+    }
+  ]
+}
